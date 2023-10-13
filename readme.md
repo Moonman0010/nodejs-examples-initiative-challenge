@@ -1,4 +1,4 @@
-# $${\color{red}Please use these scripts to run and evalute the code}
+# Please use these scripts to run and test the code
 - npm run start or npm run nodemon
 - npm run test
 
