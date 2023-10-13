@@ -1,3 +1,7 @@
+# - Please use these scripts to run and evalute the code
+> npm run start or npm run nodemon
+> npm run test
+
 # Node.js Examples Initiative Challenge
 
 > **The Node.js Examples Initiative is looking for a qualified mentee to join the initiative.**
